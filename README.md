@@ -16,7 +16,7 @@ The project utilizes object-oriented programming principles to handle various fu
 
 - Java JDK 8 or later
 - Eclipse IDE
-- JUnit 4 or later for testing
+- JUnit 5 or later for testing
 
 ## Setup
 
